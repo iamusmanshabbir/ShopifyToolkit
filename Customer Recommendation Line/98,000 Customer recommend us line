@@ -1,0 +1,53 @@
+<!-- Developed by Usman Shabbir -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Recommendations</title>
+    <style>
+        .two-images-rev {
+            display: flex;
+            align-items: center;
+        }
+        .two-images-rev .icon {
+            width: 30px;
+            height: 30px;
+            border-radius: 100%;
+        }
+        .two-images-rev .icon:nth-child(2) {
+            margin-left: -7px; /* Adjust to overlap */
+        }
+        .two-images-rev .text {
+            font-size: 13px;
+            color: #121212;
+            margin: 0 0 0 10px;
+            line-height: 15px;
+        }
+        .two-images-rev .inline-icon {
+            width: 12px;
+            height: 12px;
+            border-radius: 100%;
+            margin: 0 3px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <!-- Developed by Usman Shabbir -->
+    <div style="margin-top: 20px" class="two-images-rev">
+        <img src="https://cdn.shopify.com/s/files/1/0759/0379/5515/files/WhatsApp_Image_2024-02-28_at_1.58.51_AM.jpg?v=1709146096" alt="Icon 1" class="icon">
+        <img src="https://cdn.shopify.com/s/files/1/0759/0379/5515/files/1_cf02b275-0bdb-4341-b519-001075bd775f.png?v=1704999365" alt="Icon 2" class="icon">
+        <a href="#hp-widget-vertical-feed-widget" style="color: inherit; text-decoration: none;">
+            <p class="text">Lisa, John
+                <img src="https://cdn.shopify.com/s/files/1/0759/0379/5515/files/Ibtisam_Bari_8_10f4a304-d818-4f91-84e1-3f3442c09561.png?v=1710886172" alt="Inline Icon" class="inline-icon">
+                98,129 satisfied customers recommend Savanna Deals
+            </p>
+        </a>
+    </div>
+</body>
+</html>
+<!-- Developed by Usman Shabbir -->
+
+<!-- Email us for any kind of Shopify customization related work: usmanshabbir1004@gmail.com -->

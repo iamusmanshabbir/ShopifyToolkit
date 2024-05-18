@@ -1,0 +1,1 @@
+You can easily implement this by simply pasting the code into your product page in the custom liquid section. Alternatively, you can also paste it into the backend in the relevant liquid file above the title text.
